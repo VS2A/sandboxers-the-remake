@@ -5,7 +5,7 @@ Play for free at [Sandboxels.R74n.com](https://sandboxels.r74n.com/).
 
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 
-![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/cover-3840x1240px-text.png)
+![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/Untitled417_20260305225023.png)
 
 # Modding
 **Mods are not accepted in .** Please go to the mods at [R74nCom/Sandboxels-Mods](https://github.com/R74nCom/Sandboxels-Mods/).
